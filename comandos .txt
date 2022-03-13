@@ -1,0 +1,4 @@
+executando a imagem:
+
+docker run - d -p 3000:3000 ac9a66b90edd
+docker run - d -p <host porta>:<container porta> <id imagem>
